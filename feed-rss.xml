@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Tarea 4.1</title>
+  <link>https://www.example.com/</link>
+  <description>Éste es mi blog para la tarea</description>
+  <language>en-us</language>
+  <lastBuildDate>Mon, 18 Apr 2023 12:00:00 GMT</lastBuildDate>
+
+  <item>
+    <title>Entrada 1</title>
+    <link></link>
+    <description>¡Rockstar sorprende a todos con su nuevo videojuego!</description>
+    <pubDate>Mon, 10 Feb 2025 12:00:00 GMT</pubDate>
+    <guid>https://www</guid>
+
+</item>
+
+  <item>
+    <title>Entrada 2</title>
+    <link>https://www.example.com/blog-entry-2.html</link>
+    <description>The last of Us 3, ¡una nueva gran promesa!</description>
+    <pubDate>Web, 29 Jan 2025 12:00:00 GMT</pubDate>
+    <guid>https://www.example.com/blog-entry-2.html</guid>
+  </item>
+
+  <item>
+    <title>Entrada 3</title>
+    <link>https://www.example.com/blog-entry-3.html</link>
+    <description>Kratos, de God of War, un personaje sin igual</description>
+    <pubDate>Web, 15 Jan 2025 12:00:00 GMT</pubDate>
+    <guid>https://www.example.com/blog-entry-3.html</guid>
+  </item>
+</channel>
+</rss>
